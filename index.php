@@ -66,7 +66,7 @@
                               <a href="tel://+1 (877) 235 - 4273"> +1 (877) 235 - 4273</a>
                            </div>
                            <a href="/" class="header-logo">
-                           PlanTivo 
+                                 <span style="font-size: 24px; font-weight: bold;">PlanTivo</span> 
                            </a>
                            <div class="header-right">
                               <ul>
@@ -146,7 +146,7 @@
                      <div class="row align-items-center">
                         <div class="col-lg-3 col-6">
                            <a href="/" class="header-logo">
-                            PlanTivo
+                            <span style="font-size: 24px; font-weight: bold;">PlanTivo</span>
                            </a>
                         </div>
                         <div class="col-lg-6 d-none d-lg-block">
@@ -2282,7 +2282,7 @@
                         <div class="footer-widget-item">
                            <div class="footer-widget-logo">
                               <a href="/">
-                              <img src="images/dark.png" alt="Logo">
+                                    <span style="font-size: 24px; font-weight: bold;">PlanTivo</span>
                               </a>
                            </div>
                            <p class="footer-widget-desc">
