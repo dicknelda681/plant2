@@ -65,8 +65,8 @@
                               <i class="pe-7s-call"></i>
                               <a href="tel://+1 (877) 235 - 4273"> +1 (877) 235 - 4273</a>
                            </div>
-                           <a href="index.html" class="header-logo">
-                           <img src="images/dark.png" alt="Header Logo">
+                           <a href="/" class="header-logo">
+                           PlanTivo
                            </a>
                            <div class="header-right">
                               <ul>
@@ -145,7 +145,7 @@
                   <div class="header-nav position-relative">
                      <div class="row align-items-center">
                         <div class="col-lg-3 col-6">
-                           <a href="index.html" class="header-logo">
+                           <a href="/" class="header-logo">
                            <img src="images/dark.png" alt="Header Logo">
                            </a>
                         </div>
@@ -274,7 +274,7 @@
                                  </a>
                                  <ul class="sub-menu">
                                     <li>
-                                       <a href="index.html">
+                                       <a href="/">
                                        <span class="mm-text">Home One</span>
                                        </a>
                                     </li>
@@ -2281,7 +2281,7 @@
                      <div class="col-lg-3">
                         <div class="footer-widget-item">
                            <div class="footer-widget-logo">
-                              <a href="index.html">
+                              <a href="/">
                               <img src="images/dark.png" alt="Logo">
                               </a>
                            </div>
