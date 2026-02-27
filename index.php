@@ -146,7 +146,7 @@
                      <div class="row align-items-center">
                         <div class="col-lg-3 col-6">
                            <a href="/" class="header-logo">
-                           <img src="images/dark.png" alt="Header Logo">
+                            PlanTivo
                            </a>
                         </div>
                         <div class="col-lg-6 d-none d-lg-block">
