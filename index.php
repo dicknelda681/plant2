@@ -66,7 +66,7 @@
                               <a href="tel://+1 (877) 235 - 4273"> +1 (877) 235 - 4273</a>
                            </div>
                            <a href="/" class="header-logo">
-                           PlanTivo
+                           PlanTivo 
                            </a>
                            <div class="header-right">
                               <ul>
