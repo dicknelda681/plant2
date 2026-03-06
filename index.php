@@ -15,6 +15,16 @@
       <link rel="stylesheet" href="css/ion.rangeSlider.min.css">
       <!-- Style CSS -->
       <link rel="stylesheet" href="css/style.css">
+      
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-651245350"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-651245350');
+</script>
    </head>
    <body>
       <div class="main-wrapper">
